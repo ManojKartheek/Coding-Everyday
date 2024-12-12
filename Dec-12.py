@@ -6,7 +6,7 @@ num = 1000
 sum_of_multiples = sum(n for n in range(num) if n % 3 == 0 or n % 5 == 0)
 
 # Print the result
-print("The sum of all multiples of 3 or 5 below 1000 is:", sum_of_multiples)
+print(f"The sum of all multiples of 3 or 5 below {num} is: {sum_of_multiples}")
 
 
 # The OutPut will be :-->> The sum of all multiples of 3 or 5 below 1000 is: 233168
