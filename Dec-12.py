@@ -6,3 +6,6 @@ sum_of_multiples = sum(n for n in range(1000) if n % 3 == 0 or n % 5 == 0)
 
 # Print the result
 print("The sum of all multiples of 3 or 5 below 1000 is:", sum_of_multiples)
+
+
+# The OutPut will be : 233168
