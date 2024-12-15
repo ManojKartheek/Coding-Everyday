@@ -1,4 +1,8 @@
-# Write a Python program to find all numbers under 100,000 where the sum of the factorial of their digits is equal to the number itself. Print these numbers and their sum.
+# Question: ====>>>>>>
+'''Write a Python program to find all numbers under 100,000 
+where the sum of the factorial of their digits is equal to the number itself.
+Print these numbers and their sum.'''
+
 
 import math
 
